@@ -1,0 +1,15 @@
+DEBUG:my_logger:This message should go to the log file
+INFO:my_logger:So should this
+WARNING:my_logger:And this, too
+WARNING:root:print to console
+DEBUG:my_logger:This message should go to the log file
+INFO:my_logger:So should this
+WARNING:my_logger:And this, too
+DEBUG:my_logger:This message should go to the log file
+INFO:my_logger:So should this
+WARNING:my_logger:And this, too
+DEBUG:my_logger:This message should go to the log file
+INFO:my_logger:So should this
+WARNING:my_logger:And this, too
+[{1994814508.py:18} INFO - So should this
+[{1994814508.py:19} WARNING - And this, too

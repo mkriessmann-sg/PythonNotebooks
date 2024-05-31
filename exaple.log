@@ -1,0 +1,10 @@
+[{2497006464.py:14} INFO - So should this
+[{2497006464.py:15} WARNING - And this, too
+[{1477394318.py:14} INFO - So should this
+[{1477394318.py:15} WARNING - And this, too
+[{1477394318.py:13} DEBUG - This message should go to the log file
+[{1477394318.py:14} INFO - So should this
+[{1477394318.py:15} WARNING - And this, too
+[{1994814508.py:17} DEBUG - This message should go to the log file
+[{1994814508.py:18} INFO - So should this
+[{1994814508.py:19} WARNING - And this, too

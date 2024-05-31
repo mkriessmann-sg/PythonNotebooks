@@ -1,0 +1,34 @@
+DEBUG:my_logger:This message should go to the log file
+INFO:my_logger:So should this
+WARNING:my_logger:And this, too
+WARNING:root:print to console
+DEBUG:my_logger:This message should go to the log file
+INFO:my_logger:So should this
+WARNING:my_logger:And this, too
+DEBUG:my_logger:This message should go to the log file
+INFO:my_logger:So should this
+WARNING:my_logger:And this, too
+DEBUG:my_logger:This message should go to the log file
+INFO:my_logger:So should this
+WARNING:my_logger:And this, too
+[{1994814508.py:18} INFO - So should this
+[{1994814508.py:19} WARNING - And this, too
+[{1994814508.py:18} INFO - So should this
+[{1994814508.py:19} WARNING - And this, too
+[{65741270.py:18} INFO - So should this
+[{65741270.py:19} WARNING - And this, too
+[{65741270.py:18} INFO - So should this
+[{65741270.py:19} WARNING - And this, too
+INFO - Info Message
+WARNING - Warning Message
+INFO - Info Message
+WARNING - Warning Message
+DEBUG - Debug Message
+INFO - Info Message
+WARNING - Warning Message
+DEBUG - Debug Message
+INFO - Info Message
+WARNING - Warning Message
+ERROR - No such comm target registered: jupyter.widget.control
+WARNING - No such comm: 3e523661-1e0f-428e-9818-3312c8cf2915
+DEBUG - Current comms: []

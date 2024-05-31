@@ -1,0 +1,10 @@
+[2024-05-31 16:24:06,183] XGB_Class_Log {54285204.py:21} DEBUG - Established Logger
+[2024-05-31 16:24:06,183] XGB_Class_Log {54285204.py:22} INFO - The logger has been established.
+[2024-05-31 16:24:50,690] numexpr.utils {utils.py:148} INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[2024-05-31 16:24:50,691] numexpr.utils {utils.py:160} INFO - NumExpr defaulting to 8 threads.
+[2024-05-31 16:24:53,198] XGB_Class_Log {218105228.py:5} DEBUG - Loaded Iris data from library
+[2024-05-31 16:25:07,423] XGB_Class_Log {54285204.py:21} DEBUG - Established Logger
+[2024-05-31 16:25:07,424] XGB_Class_Log {54285204.py:22} INFO - The logger has been established.
+[2024-05-31 16:26:19,143] XGB_Class_Log {2769808135.py:5} DEBUG - Loaded Iris data from library
+[2024-05-31 16:26:19,143] XGB_Class_Log {2769808135.py:7} DEBUG - created Data Frame from library data
+[2024-05-31 16:26:19,143] XGB_Class_Log {2769808135.py:9} DEBUG - created target series from library data
