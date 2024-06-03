@@ -32,3 +32,13 @@ WARNING - Warning Message
 ERROR - No such comm target registered: jupyter.widget.control
 WARNING - No such comm: 3e523661-1e0f-428e-9818-3312c8cf2915
 DEBUG - Current comms: []
+DEBUG - Debug Message
+INFO - Info Message
+WARNING - Warning Message
+INFO - Downloading Cal. housing from https://ndownloader.figshare.com/files/5976036 to /home/studio-lab-user/scikit_learn_data
+DEBUG - Debug Message
+INFO - Info Message
+WARNING - Warning Message
+DEBUG - Debug Message
+INFO - Info Message
+WARNING - Warning Message
